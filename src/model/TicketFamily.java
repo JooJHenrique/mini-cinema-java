@@ -1,3 +1,5 @@
+package model;
+
 public class TicketFamily extends Ticket{
 
     private int quantity;
@@ -6,6 +8,10 @@ public class TicketFamily extends Ticket{
     public TicketFamily(Movies filme, double price, String idioma, int quantity) {
         super(filme, price, idioma);
         this.quantity = quantity;
+    }
+
+    public int getQuantity() {
+        return quantity;
     }
 
     @Override

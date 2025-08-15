@@ -1,3 +1,5 @@
+package model;
+
 public class TicketHalfPrice extends Ticket{
 
     public TicketHalfPrice(Movies filme, double price, String idioma) {

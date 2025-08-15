@@ -1,4 +1,4 @@
-# Mini Cinema - Ticket System
+# Mini Cinema - model.Ticket System
 
 A complete command-line experience for purchasing movie tickets, developed in Java using object-oriented programming principles.
 
@@ -14,7 +14,7 @@ This project started as an exercise for a bootcamp I'm currently taking. As I pr
 ## Features
 
 - Movie and language selection
-- Ticket types: **Full price, Half price and Promotional**
+- model.Ticket types: **Full price, Half price and Promotional**
 - Order confirmation
 - Refund functionality
 - Input validation and exception handling
@@ -31,7 +31,7 @@ This project started as an exercise for a bootcamp I'm currently taking. As I pr
     ```base
     javac src/*.java
 
-    java src.Main
+    java src.main.Main
     ```
 ## Technologies Used
 
