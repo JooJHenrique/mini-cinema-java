@@ -1,4 +1,4 @@
-# Mini Cinema - model.Ticket System
+# Mini Cinema - Ticket System
 
 A complete command-line experience for purchasing movie tickets, developed in Java using object-oriented programming principles.
 
