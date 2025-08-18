@@ -14,25 +14,12 @@ This project started as an exercise for a bootcamp I'm currently taking. As I pr
 ## Features
 
 - Movie and language selection
-- model.Ticket types: **Full price, Half price and Promotional**
+- Ticket types: **Full price, Half price and Promotional**
 - Order confirmation
 - Refund functionality
 - Input validation and exception handling
 - All operations performed directly in the terminal (CLI)
 
-## How to run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/JooJHenrique/mini-cinema-java.git
-
-   cd mini-cinema-java
-   ```
-2. Compile and run:
-    ```base
-    javac src/*.java
-
-    java src.main.Main
-    ```
 ## Technologies Used
 
 - JDK 21
